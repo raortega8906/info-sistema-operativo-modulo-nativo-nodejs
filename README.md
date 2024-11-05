@@ -1,8 +1,10 @@
-# info-sistema-operativo-modulo-nativo-nodejs
+# OS Info - Native Node.js Module
 
-Este es un pequeño script para ver información de tu sistema operativo en la terminal. 
+This is a small script to display your operating system's information in the terminal.
 
-- Instala Node en tu pc.
-- Descarga el repo o clonalo en tu pc.
-- Abre la terminal y dirígete hasta el proyecto descargado.
-- Ejecuta 'node os-info.js'.
+## Instructions
+
+- Install Node.js on your computer.
+- Download or clone the repository to your local machine.
+- Open the terminal and navigate to the downloaded project folder.
+- Run `node os-info.js`.
